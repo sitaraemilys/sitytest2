@@ -8,4 +8,4 @@ end
 
 print array
 
-arraysquared = array.each{|n|puts n*n}
+arraysquared = array.each{|i|puts i*i}
