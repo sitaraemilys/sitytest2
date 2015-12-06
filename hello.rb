@@ -1,4 +1,5 @@
 print "hello darling"
+print "hello baby"
 
 array = []
 
